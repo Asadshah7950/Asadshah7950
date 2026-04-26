@@ -16,7 +16,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-asadshah7950%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadshah7950@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Asadshah7950-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asadshah7950)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadshah7950)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadalishah1/)
 
 </div>
 
@@ -27,8 +27,6 @@
 ```typescript
 const asad = {
   name:       "Asad Ali Shah",
-  location:   "Abbottabad, Khyber Pakhtunkhwa, Pakistan 🇵🇰",
-  education:  "BSc Computer Science – COMSATS University Islamabad",
   role:       ["Full-Stack Developer", "Automation Engineer", "Blockchain Builder"],
 
   currentFocus: [
@@ -176,7 +174,7 @@ const asad = {
 
 [![Email](https://img.shields.io/badge/Email-asadshah7950%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadshah7950@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asadshah7950)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadshah7950)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadalishah1/)
 
 </div>
 
