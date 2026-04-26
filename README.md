@@ -24,21 +24,16 @@
 
 ## 🧠 About Me
 
-```typescript
-const asad = {
-  name:       "Asad Ali Shah",
-  role:       ["Full-Stack Developer", "Automation Engineer", "Blockchain Builder"],
+👋 Hi! I'm **Asad Ali Shah** — a passionate **Full-Stack Developer**, **Automation Engineer**, and **Blockchain Builder** from Pakistan.
 
-  currentFocus: [
-    "AI-powered workflow automation with n8n",
-    "Scalable blockchain dApps",
-    "High-performance parallel computing (CUDA / MPI)",
-    "Cross-platform mobile development with Flutter"
-  ],
+I'm a Computer Science graduate with hands-on experience building real-world, scalable applications — from **Ethereum-based crowdfunding platforms** to **AI-powered workflow automation** and **GPU-accelerated computing systems**.
 
-  funFact: "I turn complex problems into elegant, automated solutions ⚡"
-};
-```
+- 🚀 &nbsp;Currently focused on **AI workflow automation with n8n** and **blockchain dApp development**
+- 🤖 &nbsp;Building intelligent automations that eliminate manual processes and boost efficiency
+- ⚡ &nbsp;Experienced in **high-performance parallel computing** with CUDA & MPI
+- 📱 &nbsp;Shipping **cross-platform mobile apps** with Flutter & React Native
+- 🔐 &nbsp;Google Certified in **Cybersecurity** with a strong foundation in security & risk management
+- 💡 &nbsp;Firm believer that **great engineering = elegant solutions to complex problems**
 
 ---
 
