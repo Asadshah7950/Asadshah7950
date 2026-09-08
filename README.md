@@ -17,6 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-asadshah7950%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadshah7950@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Asadshah7950-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asadshah7950)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadalishah1/)
+[![ghfind](https://ghfind.com/api/badge/Asadshah7950)](https://ghfind.com/u/asadshah7950)
 
 </div>
 
@@ -92,12 +93,12 @@ I'm a Computer Science graduate with hands-on experience building real-world, sc
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
-| 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950)** | React · Node.js · MongoDB · Solidity | Ethereum smart contracts, donor management, campaign lifecycle |
+| 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · MongoDB · Solidity | Ethereum smart contracts, donor management, campaign lifecycle |
 | 💼 **[KolsConnect – Crypto Marketing Platform](https://github.com/Asadshah7950)** | React · Node.js · Web3 | Influencer campaign tracking, client management workflows |
 | 🤖 **[HoneyWilde Bot – AI Social Media Bot](https://github.com/Asadshah7950)** | Node.js · Groq AI · Bluesky API | Scheduled AI posts, contextual replies, engagement automation |
-| 📱 **[Furniture Store App](https://github.com/Asadshah7950)** | Flutter · Firebase · GetX | E-commerce, auth, cart, orders, notifications |
-| 🖼️ **[Image Watermarking (MPI + CUDA)](https://github.com/Asadshah7950)** | C/C++ · MPI · CUDA | LSB embedding, GPU acceleration, PSNR analysis |
-| ⏱️ **[Time-Off Microservice](https://github.com/Asadshah7950)** | NestJS · SQLite | Idempotent ops, concurrency-safe, HCM sync with circuit breaking |
+| 📱 **[Furniture Store App](https://github.com/Asadshah7950/furniture_store)** | Flutter · Firebase · GetX | E-commerce, auth, cart, orders, notifications |
+| 🖼️ **[Image Watermarking (MPI + CUDA)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB embedding, GPU acceleration, PSNR analysis |
+| ⏱️ **[Time-Off Microservice](https://github.com/Asadshah7950/time-off-microservice)** | NestJS · SQLite | Idempotent ops, concurrency-safe, HCM sync with circuit breaking |
 
 </div>
 
