@@ -38,20 +38,7 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 
 ## 👨‍💻 About Me
 
-```javascript
-const asad = {
-  name: "Asad Ali Shah",
-  role: "Full-Stack & Systems Engineer | Open Source Contributor",
-  passions: [
-    "Distributed Systems",
-    "NestJS & Cloud Architecture",
-    "High-Performance Computing (CUDA / MPI)",
-    "Clean Code & Resilient Backend Engineering"
-  ],
-  currentFocus: "Architecting high-scale enterprise backends and contributing to developer tooling",
-  openForOpportunities: true
-};
-```
+I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, and decentralized applications on **Ethereum / Solidity**.
 
 - 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** across core, jwt, schedule, config, and throttler
 - 🚀 &nbsp;Passionate about **distributed systems, microservices**, and **performance optimization**
