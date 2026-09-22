@@ -112,7 +112,6 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asadshah7950&theme=tokyonight&utcOffset=5"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asadshah7950&theme=tokyonight"/>
 
 </div>
