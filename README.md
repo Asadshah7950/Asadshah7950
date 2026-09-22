@@ -42,8 +42,8 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 
 I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, decentralized applications on **Ethereum / Solidity**, and developer CLI tooling in **Python**.
 
-- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** across core, jwt, schedule, config, terminus and throttler — **7 PRs merged**
-- 🐍 &nbsp;Author of **[pg-schema-diff](https://github.com/Asadshah7950/pg-schema-diff)** — Python CLI for detecting PostgreSQL schema drift
+- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** — **7 PRs merged** across core, jwt, schedule, config, terminus & schematics
+- 🐍 &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Python CLI for detecting PostgreSQL schema drift & generating migration SQL
 - 🚀 &nbsp;Passionate about **distributed systems, microservices**, and **performance optimization**
 - ⚡ &nbsp;Experienced with **parallel programming** on GPU architectures using **CUDA** & **MPI**
 - 🌐 &nbsp;Hands-on experience in **Web3** development with **Solidity & Ethereum Smart Contracts**
@@ -92,7 +92,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
 | ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
-| 🔬 **[pg-schema-diff – PostgreSQL Schema Drift CLI](https://github.com/Asadshah7950/pg-schema-diff)** | Python · Click · psycopg2 | Detect schema drift between DBs, generate safe migration SQL, 49 tests, 93% coverage |
+| 🔬 **[schemadrift – PostgreSQL Schema Drift CLI](https://github.com/Asadshah7950/schemadrift)** | Python · Click · psycopg2 | Detect schema drift between DBs, generate safe migration SQL, 49 tests, 93% coverage |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
 | 📱 **[Furniture Store App](https://github.com/Asadshah7950/furniture_store)** | Flutter · Firebase · GetX | Full-featured mobile e-commerce with real-time sync |
@@ -105,8 +105,8 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asadshah7950&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=14400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadshah7950&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=14400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asadshah7950&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asadshah7950&theme=tokyonight"/>
 
 </div>
 
@@ -116,13 +116,19 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 </div>
 
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asadshah7950&theme=tokyonight"/>
+
+</div>
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Contribution Heatmap
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Asadshah7950&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://ghchart.rshah.org/A78BFA/Asadshah7950" alt="Asad Shah Github Chart"/>
 
 </div>
 
