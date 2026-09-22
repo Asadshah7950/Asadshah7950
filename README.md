@@ -24,14 +24,15 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 |:---|:---|:---:|
 | 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Core HttpError filter fix**: Resolved false-positive HTTP exception detection | [**#17709**](https://github.com/nestjs/nest/pull/17709) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Core path normalization**: Collapsed duplicate internal slashes in `normalizePath` | [**#17710**](https://github.com/nestjs/nest/pull/17710) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| 📁 **[nestjs/serve-static](https://github.com/nestjs/serve-static)** *(510+ ⭐)* | **Fastify dynamic serving**: Allow wildcard option to serve dynamic files | [**#2065**](https://github.com/nestjs/serve-static/pull/2065) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
 | 🔐 **[nestjs/jwt](https://github.com/nestjs/jwt)** *(2.1k ⭐)* | **TypeScript decoders**: Added overload types for decode with complete options | [**#2269**](https://github.com/nestjs/jwt/pull/2269) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | ⏱️ **[nestjs/schedule](https://github.com/nestjs/schedule)** *(2.3k ⭐)* | **Generic return types**: Added generic type params to `getInterval` & `getTimeout` | [**#2359**](https://github.com/nestjs/schedule/pull/2359) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| ⚙️ **[nestjs/config](https://github.com/nestjs/config)** *(3.4k ⭐)* | **Environment interpolation**: Prefix corruption fix & replacer function safety | [**#2427**](https://github.com/nestjs/config/pull/2427) · ![Reviewed](https://img.shields.io/badge/Reviewed_by_Kamil-2da44e?style=flat-square) |
+| ⚙️ **[nestjs/config](https://github.com/nestjs/config)** *(3.4k ⭐)* | **Environment interpolation**: Prefix corruption fix & replacer function safety | [**#2427**](https://github.com/nestjs/config/pull/2427) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| 🏥 **[nestjs/terminus](https://github.com/nestjs/terminus)** *(1.1k ⭐)* | **Health checks**: Accept `URL` object in `HttpHealthIndicator.pingCheck` | [**#2766**](https://github.com/nestjs/terminus/pull/2766) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
+| 📦 **[nestjs/schematics](https://github.com/nestjs/schematics)** *(600+ ⭐)* | **TypeScript upgrade fix**: Corrected `ScriptTarget` import path for TS 5.x | [**#2440**](https://github.com/nestjs/schematics/pull/2440) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **Memory leak prevention**: Evict expired IP storage map entries on TTL completion | [**#2689**](https://github.com/nestjs/throttler/pull/2689) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
 | 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **Custom adapter support**: Adapter-agnostic header setter (`res.header` crash fix) | [**#2691**](https://github.com/nestjs/throttler/pull/2691) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
 | 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **NestJS 12 compatibility**: Inlined optional imports for `ThrottlerAsyncOptions` | [**#2692**](https://github.com/nestjs/throttler/pull/2692) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
-| 📦 **[nestjs/azure-storage](https://github.com/nestjs/azure-storage)** | **Typing fix**: Corrected `UploadedFileMetaData` size property to `number` | [**#514**](https://github.com/nestjs/azure-storage/pull/514) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
+| 📁 **[nestjs/serve-static](https://github.com/nestjs/serve-static)** *(510+ ⭐)* | **Fastify dynamic serving**: Allow wildcard option to serve dynamic files | [**#2065**](https://github.com/nestjs/serve-static/pull/2065) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
 
 </div>
 
@@ -39,9 +40,10 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, and decentralized applications on **Ethereum / Solidity**.
+I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, decentralized applications on **Ethereum / Solidity**, and developer CLI tooling in **Python**.
 
-- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** across core, jwt, schedule, config, and throttler
+- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** across core, jwt, schedule, config, terminus and throttler — **7 PRs merged**
+- 🐍 &nbsp;Author of **[pg-schema-diff](https://github.com/Asadshah7950/pg-schema-diff)** — Python CLI for detecting PostgreSQL schema drift
 - 🚀 &nbsp;Passionate about **distributed systems, microservices**, and **performance optimization**
 - ⚡ &nbsp;Experienced with **parallel programming** on GPU architectures using **CUDA** & **MPI**
 - 🌐 &nbsp;Hands-on experience in **Web3** development with **Solidity & Ethereum Smart Contracts**
@@ -55,6 +57,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -64,7 +67,6 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-Parallel_Computing-0066CC?style=for-the-badge&logo=intel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -89,11 +91,10 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
-| ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | Concurrency-safe transactions, idempotent ops, resilient HCM sync |
+| ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
+| 🔬 **[pg-schema-diff – PostgreSQL Schema Drift CLI](https://github.com/Asadshah7950/pg-schema-diff)** | Python · Click · psycopg2 | Detect schema drift between DBs, generate safe migration SQL, 49 tests, 93% coverage |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
-| 💼 **[KolsConnect – Crypto Marketing](https://github.com/Asadshah7950)** | React · Node.js · Web3 | Influencer campaign tracking & client management workflows |
-| 🤖 **[HoneyWilde AI Bot](https://github.com/Asadshah7950)** | Node.js · Groq AI · Bluesky API | Contextual automated AI social engagement and posting |
 | 📱 **[Furniture Store App](https://github.com/Asadshah7950/furniture_store)** | Flutter · Firebase · GetX | Full-featured mobile e-commerce with real-time sync |
 
 </div>
@@ -104,8 +105,8 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asadshah7950&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadshah7950&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asadshah7950&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=14400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadshah7950&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=14400"/>
 
 </div>
 
@@ -121,7 +122,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Asadshah7950&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Asadshah7950&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
