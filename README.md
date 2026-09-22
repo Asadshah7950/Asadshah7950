@@ -112,23 +112,14 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Asadshah7950&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=A78BFA)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asadshah7950&theme=tokyonight&utcOffset=5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asadshah7950&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asadshah7950&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 Contribution Heatmap
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/A78BFA/Asadshah7950" alt="Asad Shah Github Chart"/>
 
 </div>
 
@@ -155,7 +146,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 <div align="center">
 
-[![Asad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asadshah7950&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah.org/A78BFA/Asadshah7950" alt="Contribution Chart"/>
 
 </div>
 
