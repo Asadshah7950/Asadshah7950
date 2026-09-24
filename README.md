@@ -29,9 +29,8 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 | ⚙️ **[nestjs/config](https://github.com/nestjs/config)** *(3.4k ⭐)* | **Environment interpolation**: Prefix corruption fix & replacer function safety | [**#2427**](https://github.com/nestjs/config/pull/2427) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | 🏥 **[nestjs/terminus](https://github.com/nestjs/terminus)** *(1.1k ⭐)* | **Health checks**: Accept `URL` object in `HttpHealthIndicator.pingCheck` | [**#2766**](https://github.com/nestjs/terminus/pull/2766) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | 📦 **[nestjs/schematics](https://github.com/nestjs/schematics)** *(600+ ⭐)* | **TypeScript upgrade fix**: Corrected `ScriptTarget` import path for TS 5.x | [**#2440**](https://github.com/nestjs/schematics/pull/2440) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
-| 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **Memory leak prevention**: Evict expired IP storage map entries on TTL completion | [**#2689**](https://github.com/nestjs/throttler/pull/2689) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
-| 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **Custom adapter support**: Adapter-agnostic header setter (`res.header` crash fix) | [**#2691**](https://github.com/nestjs/throttler/pull/2691) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
-| 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **NestJS 12 compatibility**: Inlined optional imports for `ThrottlerAsyncOptions` | [**#2692**](https://github.com/nestjs/throttler/pull/2692) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
+| 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **Custom adapter support**: Adapter-agnostic header setter (`res.header` crash fix) | [**#2704**](https://github.com/nestjs/throttler/pull/2704) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Co-author)* |
+| 🗄️ **[typeorm/typeorm](https://github.com/typeorm/typeorm)** *(34.5k ⭐)* | **Postgres schema sync**: Normalize column default typecasts & empty array literals | [**#12898**](https://github.com/typeorm/typeorm/pull/12898) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
 | 📁 **[nestjs/serve-static](https://github.com/nestjs/serve-static)** *(510+ ⭐)* | **Fastify dynamic serving**: Allow wildcard option to serve dynamic files | [**#2065**](https://github.com/nestjs/serve-static/pull/2065) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
 
 </div>
@@ -42,7 +41,7 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 
 I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, decentralized applications on **Ethereum / Solidity**, and developer CLI tooling in **Python**.
 
-- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** — **7 PRs merged** across core, jwt, schedule, config, terminus & schematics
+- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** — **8 PRs merged** across core, jwt, schedule, config, terminus, schematics & throttler
 - 🐍 &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Python CLI for detecting PostgreSQL schema drift & generating migration SQL
 - 🚀 &nbsp;Passionate about **distributed systems, microservices**, and **performance optimization**
 - ⚡ &nbsp;Experienced with **parallel programming** on GPU architectures using **CUDA** & **MPI**
