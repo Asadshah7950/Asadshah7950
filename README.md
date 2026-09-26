@@ -90,8 +90,8 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
+| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · PyPI | Zero-downtime concurrent indexing, automated rollback SQL, 71 tests, 95.5% coverage (`pip install pg-schema-diff`) |
 | ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
-| 🔬 **[schemadrift – PostgreSQL Schema Drift CLI](https://github.com/Asadshah7950/schemadrift)** | Python · Click · psycopg2 | Detect schema drift between DBs, generate safe migration SQL, 49 tests, 93% coverage |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
 | 📱 **[Furniture Store App](https://github.com/Asadshah7950/furniture_store)** | Flutter · Firebase · GetX | Full-featured mobile e-commerce with real-time sync |
