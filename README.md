@@ -98,7 +98,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
-| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W007), interactive HTML visual diffs, zero-downtime indexing, 135+ tests, 97.8% coverage (`pip install schemadrift`) |
+| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W008), interactive HTML visual diffs, zero-downtime indexing, 140+ tests, 97.9% coverage (`pip install schemadrift`) |
 | ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
