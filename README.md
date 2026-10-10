@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/asadalishah1/"><img src="https://img.shields.io/badge/LinkedIn-Asad%20Ali%20Shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/marketplace/actions/postgresql-schema-drift-detector"><img src="https://img.shields.io/badge/GitHub_Marketplace-schemadrift-blue?style=flat-square&logo=githubactions&logoColor=white"/></a>
   <a href="https://github.com/Asadshah7950"><img src="https://img.shields.io/github/followers/Asadshah7950?label=Followers&style=flat-square&color=2da44e"/></a>
-  <a href="https://ghfind.com/u/asadshah7950"><img src="https://img.shields.io/badge/ghfind-77.0%20%7C%20Top%2016.6%25-FF6C37?style=flat-square&logo=github"/></a>
 </p>
 
 </div>
@@ -109,15 +108,9 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 ---
 
-## 📊 GitHub Stats & Engineering Rating
+## 📊 GitHub Stats
 
 <div align="center">
-
-<p align="center">
-  <a href="https://ghfind.com/u/asadshah7950">
-    <img src="https://ghfind.com/api/card/mini/asadshah7950?lang=en" alt="ghfind Verified Developer Rating" width="420" />
-  </a>
-</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asadshah7950&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asadshah7950&theme=tokyonight"/>
@@ -182,7 +175,5 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 **💜 Open to exciting engineering challenges — Let's build something amazing together!**
-
-<img src="https://hits.sh/github.com/Asadshah7950.svg?extraCount=191&label=PROFILE%20VIEWS&color=a78bfa&labelColor=24243e&style=flat-square" alt="Profile Views" />
 
 </div>
