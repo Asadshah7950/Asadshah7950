@@ -11,6 +11,12 @@
   <a href="https://github.com/Asadshah7950"><img src="https://img.shields.io/github/followers/Asadshah7950?label=Followers&style=flat-square&color=2da44e"/></a>
 </p>
 
+<p align="center">
+  <a href="https://ghfind.com/u/asadshah7950?ref=badge">
+    <img src="https://ghfind.com/api/card/mini/asadshah7950?lang=en" alt="ghfind Verified Developer Rating" width="420" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -24,6 +30,9 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 | Ecosystem / Repository | Contribution Highlight | PR & Status |
 |:---|:---|:---:|
 | 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Core ParseUUIDPipe upgrade**: Export `UUIDVersion` and support numeric / `'all'` versions | [**#17920**](https://github.com/nestjs/nest/pull/17920) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Kamil)* |
+| ⚡ **[nestjs/cache-manager](https://github.com/nestjs/cache-manager)** *(2.5k ⭐)* | **Keyv store namespace & TTL**: Applied module namespace & TTL to Keyv stores | [**#1188**](https://github.com/nestjs/cache-manager/pull/1188) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Kamil)* |
+| 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Express prefix routing**: Answer method misses on excluded routes | [**#17923**](https://github.com/nestjs/nest/pull/17923) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Reviewed)* |
+| 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Microservices reliability**: Survive custom deserializer errors across 4 transports | [**#17995**](https://github.com/nestjs/nest/pull/17995) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Verified)* |
 | 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Core HttpError filter fix**: Resolved false-positive HTTP exception detection | [**#17709**](https://github.com/nestjs/nest/pull/17709) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Core path normalization**: Collapsed duplicate internal slashes in `normalizePath` | [**#17710**](https://github.com/nestjs/nest/pull/17710) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) |
 | 📖 **[nestjs/docs.nestjs.com](https://github.com/nestjs/docs.nestjs.com)** *(3.1k ⭐)* | **Official Docs**: Documented `ParseUUIDPipe` version parameters & usage | [**#3564**](https://github.com/nestjs/docs.nestjs.com/pull/3564) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Kamil)* |
@@ -46,8 +55,8 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 
 I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, decentralized applications on **Ethereum / Solidity**, and developer CLI tooling in **Python**.
 
-- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** — **12+ PRs merged** across core framework, docs, and official ecosystem packages
-- ⚡ &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Official [GitHub Actions Marketplace](https://github.com/marketplace/actions/postgresql-schema-drift-detector) action & Python CLI (90 unit tests, 96.9% coverage, dark-mode visual reports)
+- 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** — **15+ PRs merged & verified** across core framework, docs, and official ecosystem packages
+- ⚡ &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Official [GitHub Actions Marketplace](https://github.com/marketplace/actions/postgresql-schema-drift-detector) action & Python CLI (135+ tests, 97.8% coverage, static schema linter rules E001-W007, visual HTML reports)
 - 🚀 &nbsp;Passionate about **distributed systems, microservices**, and **performance optimization**
 - ⚡ &nbsp;Experienced with **parallel programming** on GPU architectures using **CUDA** & **MPI**
 - 🌐 &nbsp;Hands-on experience in **Web3** development with **Solidity & Ethereum Smart Contracts**
@@ -95,7 +104,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
-| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Interactive HTML visual diffs, step summaries, zero-downtime indexing, table exclusions, 90 tests, 96.9% coverage (`pip install pg-schema-diff`) |
+| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W007), interactive HTML visual diffs, zero-downtime indexing, 135+ tests, 97.8% coverage (`pip install schemadrift`) |
 | ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
