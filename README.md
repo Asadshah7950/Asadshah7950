@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/asadalishah1/"><img src="https://img.shields.io/badge/LinkedIn-Asad%20Ali%20Shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/marketplace/actions/postgresql-schema-drift-detector"><img src="https://img.shields.io/badge/GitHub_Marketplace-schemadrift-blue?style=flat-square&logo=githubactions&logoColor=white"/></a>
   <a href="https://github.com/Asadshah7950"><img src="https://img.shields.io/github/followers/Asadshah7950?label=Followers&style=flat-square&color=2da44e"/></a>
-  <a href="https://ghfind.com/u/asadshah7950"><img src="https://img.shields.io/badge/ghfind-76.8%20%7C%20Top%2017%25-FF6C37?style=flat-square&logo=github"/></a>
+  <a href="https://ghfind.com/u/asadshah7950"><img src="https://img.shields.io/badge/ghfind-77.0%20%7C%20Top%2016.6%25-FF6C37?style=flat-square&logo=github"/></a>
 </p>
 
 </div>
