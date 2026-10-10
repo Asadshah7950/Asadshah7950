@@ -183,6 +183,6 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 **💜 Open to exciting engineering challenges — Let's build something amazing together!**
 
-<img src="https://komarev.com/ghpvc/?username=Asadshah7950&label=PROFILE%20VIEWS&style=flat-square&color=a78bfa" alt="Profile Views" />
+<a href="https://hits.sh/github.com/Asadshah7950/"><img src="https://hits.sh/github.com/Asadshah7950.svg?extraCount=191&label=PROFILE%20VIEWS&color=a78bfa&labelColor=24243e&style=flat-square" alt="Profile Views" /></a>
 
 </div>
