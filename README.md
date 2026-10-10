@@ -9,12 +9,7 @@
   <a href="https://www.linkedin.com/in/asadalishah1/"><img src="https://img.shields.io/badge/LinkedIn-Asad%20Ali%20Shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/marketplace/actions/postgresql-schema-drift-detector"><img src="https://img.shields.io/badge/GitHub_Marketplace-schemadrift-blue?style=flat-square&logo=githubactions&logoColor=white"/></a>
   <a href="https://github.com/Asadshah7950"><img src="https://img.shields.io/github/followers/Asadshah7950?label=Followers&style=flat-square&color=2da44e"/></a>
-</p>
-
-<p align="center">
-  <a href="https://ghfind.com/u/asadshah7950?ref=badge">
-    <img src="https://ghfind.com/api/card/mini/asadshah7950?lang=en" alt="ghfind Verified Developer Rating" width="420" />
-  </a>
+  <a href="https://ghfind.com/u/asadshah7950"><img src="https://img.shields.io/badge/ghfind-76.8%20%7C%20Top%2017%25-FF6C37?style=flat-square&logo=github"/></a>
 </p>
 
 </div>
@@ -114,9 +109,15 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Engineering Rating
 
 <div align="center">
+
+<p align="center">
+  <a href="https://ghfind.com/u/asadshah7950">
+    <img src="https://ghfind.com/api/card/mini/asadshah7950?lang=en" alt="ghfind Verified Developer Rating" width="420" />
+  </a>
+</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asadshah7950&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asadshah7950&theme=tokyonight"/>
@@ -182,6 +183,6 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 **💜 Open to exciting engineering challenges — Let's build something amazing together!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Asadshah7950&label=PROFILE+VIEWS&color=a78bfa&style=for-the-badge)
+[![Visitor Count](https://api.visitorbadge.io/api/visitors?path=Asadshah7950&label=PROFILE%20VIEWS&labelColor=24243e&countColor=a78bfa&style=flat-square)](https://github.com/Asadshah7950)
 
 </div>
