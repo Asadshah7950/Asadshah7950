@@ -182,6 +182,6 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 **💜 Open to exciting engineering challenges — Let's build something amazing together!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Asadshah7950&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Asadshah7950&label=PROFILE+VIEWS&color=a78bfa&style=for-the-badge)
 
 </div>
