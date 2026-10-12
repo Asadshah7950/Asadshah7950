@@ -23,6 +23,7 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 
 | Ecosystem / Repository | Contribution Highlight | PR & Status |
 |:---|:---|:---:|
+| 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Kafka tombstone deserialization**: Preserve null payloads for compacted topic deletions | [**#18085**](https://github.com/nestjs/nest/pull/18085) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Verified)* |
 | 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Core ParseUUIDPipe upgrade**: Export `UUIDVersion` and support numeric / `'all'` versions | [**#17920**](https://github.com/nestjs/nest/pull/17920) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Kamil)* |
 | ⚡ **[nestjs/cache-manager](https://github.com/nestjs/cache-manager)** *(2.5k ⭐)* | **Keyv store namespace & TTL**: Applied module namespace & TTL to Keyv stores | [**#1188**](https://github.com/nestjs/cache-manager/pull/1188) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Kamil)* |
 | 🦁 **[nestjs/nest](https://github.com/nestjs/nest)** *(76.6k ⭐)* | **Express prefix routing**: Answer method misses on excluded routes | [**#17923**](https://github.com/nestjs/nest/pull/17923) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Reviewed)* |
@@ -98,7 +99,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
-| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W008), interactive HTML visual diffs, zero-downtime indexing, 140+ tests, 97.9% coverage (`pip install schemadrift`) |
+| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W009), interactive HTML visual diffs, zero-downtime indexing, 145+ tests, 97.9% coverage (`pip install schemadrift`) |
 | ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
