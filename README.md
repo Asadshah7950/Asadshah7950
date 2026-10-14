@@ -41,6 +41,7 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 | 🚦 **[nestjs/throttler](https://github.com/nestjs/throttler)** *(7.1k ⭐)* | **Custom adapter support**: Adapter-agnostic header setter (`res.header` crash fix) | [**#2704**](https://github.com/nestjs/throttler/pull/2704) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Co-author)* |
 | 🗄️ **[typeorm/typeorm](https://github.com/typeorm/typeorm)** *(34.5k ⭐)* | **Postgres schema sync**: Normalize column default typecasts & empty array literals | [**#12898**](https://github.com/typeorm/typeorm/pull/12898) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
 | 📁 **[nestjs/serve-static](https://github.com/nestjs/serve-static)** *(510+ ⭐)* | **Fastify dynamic serving**: Allow wildcard option to serve dynamic files | [**#2065**](https://github.com/nestjs/serve-static/pull/2065) · ![PR Open](https://img.shields.io/badge/PR_Open-2da44e?style=flat-square) |
+| 🤖 **[gitbot-hq/Library](https://github.com/gitbot-hq/Library)** | **Schema Drift Reviewer bot**: Shipped official automated PostgreSQL schema drift reviewer powered by `schemadrift` | [**#100**](https://github.com/gitbot-hq/Library/pull/100) · ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github) *(Official)* |
 
 </div>
 
@@ -51,7 +52,7 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, decentralized applications on **Ethereum / Solidity**, and developer CLI tooling in **Python**.
 
 - 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** — **15+ PRs merged & verified** across core framework, docs, and official ecosystem packages
-- ⚡ &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Official [GitHub Actions Marketplace](https://github.com/marketplace/actions/postgresql-schema-drift-detector) action & Python CLI (135+ tests, 97.8% coverage, static schema linter rules E001-W007, visual HTML reports)
+- ⚡ &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Official [GitHub Actions Marketplace](https://github.com/marketplace/actions/postgresql-schema-drift-detector) action & Python CLI (153+ tests, 98% coverage, static schema linter rules E001-W011, visual HTML reports)
 - 🚀 &nbsp;Passionate about **distributed systems, microservices**, and **performance optimization**
 - ⚡ &nbsp;Experienced with **parallel programming** on GPU architectures using **CUDA** & **MPI**
 - 🌐 &nbsp;Hands-on experience in **Web3** development with **Solidity & Ethereum Smart Contracts**
@@ -99,7 +100,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
-| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W009), interactive HTML visual diffs, zero-downtime indexing, 145+ tests, 97.9% coverage (`pip install schemadrift`) |
+| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W011), interactive HTML visual diffs, zero-downtime indexing, 153+ tests, 98% coverage (`pip install schemadrift`) |
 | ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
