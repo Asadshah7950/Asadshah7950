@@ -52,7 +52,7 @@ Active contributor to core open-source infrastructure and enterprise frameworks,
 I am a **Full-Stack & Systems Engineer** with a focus on building resilient, high-throughput backend services, distributed systems, and contributing to core open-source developer tooling. My background spans architecting enterprise microservices with **NestJS / Node.js**, parallel GPU acceleration using **CUDA / MPI (C++)**, decentralized applications on **Ethereum / Solidity**, and developer CLI tooling in **Python**.
 
 - 🦁 &nbsp;**Core & ecosystem contributor** to **[NestJS](https://github.com/nestjs)** — **15+ PRs merged & verified** across core framework, docs, and official ecosystem packages
-- ⚡ &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Official [GitHub Actions Marketplace](https://github.com/marketplace/actions/postgresql-schema-drift-detector) action & Python CLI (153+ tests, 98% coverage, static schema linter rules E001-W011, visual HTML reports)
+- ⚡ &nbsp;Author of **[schemadrift](https://github.com/Asadshah7950/schemadrift)** — Official [GitHub Actions Marketplace](https://github.com/marketplace/actions/postgresql-schema-drift-detector) action & Python CLI (157+ tests, 98% coverage, static schema linter rules E001-W012, visual HTML reports)
 - 🚀 &nbsp;Passionate about **distributed systems, microservices**, and **performance optimization**
 - ⚡ &nbsp;Experienced with **parallel programming** on GPU architectures using **CUDA** & **MPI**
 - 🌐 &nbsp;Hands-on experience in **Web3** development with **Solidity & Ethereum Smart Contracts**
@@ -100,7 +100,7 @@ I am a **Full-Stack & Systems Engineer** with a focus on building resilient, hig
 
 | Project | Tech Stack | Highlights |
 |:--------|:-----------|:-----------|
-| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W011), interactive HTML visual diffs, zero-downtime indexing, 153+ tests, 98% coverage (`pip install schemadrift`) |
+| ⚡ **[schemadrift – PostgreSQL Schema Drift & Migration Tool](https://github.com/Asadshah7950/schemadrift)** | Python · PostgreSQL · Marketplace · PyPI | [Official GitHub Action](https://github.com/marketplace/actions/postgresql-schema-drift-detector) & PyPI CLI · Static schema linter (Rules E001-W012), interactive HTML visual diffs, zero-downtime indexing, 157+ tests, 98% coverage (`pip install schemadrift`) |
 | ⏱️ **[LeaveLedger – Leave & Balance Ledger Engine](https://github.com/Asadshah7950/LeaveLedger)** | NestJS · TypeScript · SQLite | 2-phase ACID transactions, Dead-Letter Queue, 195 tests, 0 race conditions |
 | 🖼️ **[Image Watermarking (CUDA + MPI)](https://github.com/Asadshah7950/Image-Water-Mark-Processing)** | C/C++ · MPI · CUDA | LSB spatial embedding, GPU kernel acceleration, PSNR analysis |
 | 🔗 **[Funderr – Blockchain Crowdfunding](https://github.com/Asadshah7950/Funderr-Blockhain-Based-Crowdfunding-Platform)** | React · Node.js · Solidity · Web3 | Ethereum smart contracts, decentralized donor lifecycle |
